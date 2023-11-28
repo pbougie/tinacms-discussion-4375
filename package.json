@@ -1,0 +1,10 @@
+{
+  "devDependencies": {},
+  "scripts": {
+    "dev": "npx tinacms dev --noTelemetry --verbose"
+  },
+  "dependencies": {
+    "@tinacms/cli": "^1.5.12",
+    "tinacms": "^1.5.6"
+  }
+}
